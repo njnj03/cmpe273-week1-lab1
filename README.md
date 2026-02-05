@@ -65,7 +65,7 @@ service=B endpoint=/call-echo status=error error="..." latency_ms=0
 
 ## Screenshots
 
-(screenshots/terminal-success-failure.png)
+![Test Results](screenshots/terminal-success-failure.png)
 
 ## What makes this distributed?
 
